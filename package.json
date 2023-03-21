@@ -1,0 +1,24 @@
+{
+  "name": "ukr-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "random-words": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlitvinovaaa/tg-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlitvinovaaa/tg-bot/issues"
+  },
+  "homepage": "https://github.com/vlitvinovaaa/tg-bot#readme"
+}
